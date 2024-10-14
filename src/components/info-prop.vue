@@ -95,7 +95,7 @@ export default {
     position: fixed;
     right: 0px;
     top: 75px;
-    width: 1060px;
+    width: 50%;
     height: 100%;
     background-color: rgba(32, 32, 32, 0.61);
 
@@ -115,7 +115,7 @@ export default {
     position: fixed;
     right: 0px;
     top: 75px;
-    width: 1060px;
+    width: 50%;
     height: 100%;
     background-color: rgba(0, 81, 255, 0.171);
 
