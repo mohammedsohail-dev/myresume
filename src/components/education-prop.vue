@@ -10,7 +10,7 @@
         <br />
         Vellore Institute of Technology, Vellore <br />
         Bachelor of Engineering <br />
-        in Electronics and Communication Engineering <br />
+        in Electronics and <br />Communication Engineering <br />
         2017 - 2021 <br />
         </p>
     </div>
@@ -91,6 +91,53 @@ export default {
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;
+}
+
+@media (max-width: 768px) {
+
+  .education.dark {
+    position: fixed;
+    left: 0px;
+    top: 10%;
+    width: 60%;
+    height: 30%;
+    background-color: rgba(22, 22, 22, 0.938);
+    box-shadow: none;
+
+}
+
+.text2.dark {
+    position: fixed;
+    font-size: 12px;
+    text-align: left;
+    margin: 15px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'K2D', sans-serif;
+}
+
+.education.light {
+  position: fixed;
+    left: 0px;
+    top: 10%;
+    width: 60%;
+    height: 30%;
+    background-color: rgba(255, 255, 255, 0.801);
+    box-shadow: none;
+
+}
+
+.text2.light {
+  position: fixed;
+    font-size: 12px;
+    text-align: left;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px black;
+    font-family: 'K2D', sans-serif;
+}
+
+
 }
 
 

@@ -132,4 +132,80 @@
         color: black;
     }
 
+
+    @media (max-width: 768px) {
+
+        .top.dark {
+        position: fixed;
+        background-color: black;
+        left: 0px;
+        top:  0px;
+        height: 10%;
+        width: 100%;
+    }
+
+    .title.dark {
+        position : fixed;
+        left: 20px;
+        top: 28px;
+        font-size: 17px;
+        color: white;
+    }
+
+    .language.dark {
+        cursor: pointer;
+        position : fixed;
+        right: 60px;
+        top: 28px;
+        font-size: 17px;
+        color: white;
+    }
+
+    .darklight.dark {
+        cursor: pointer;
+        position : fixed;
+        right: 15px;
+        top: 24px;
+        font-size: 24px;
+        color: white;
+    }
+
+
+    .top.light {
+        position: fixed;
+        background-color: white;
+        left: 0px;
+        top:  0px;
+        height: 10%;
+        width: 100%;
+    }
+
+    .title.light {
+        position : fixed;
+        left: 20px;
+        top: 28px;
+        font-size: 17px;
+        color: black;
+    }
+
+    .language.light {
+        cursor: pointer;
+        position : fixed;
+        right: 60px;
+        top: 28px;
+        font-size: 17px;
+        color: black;
+    }
+
+    .darklight.light {
+        cursor: pointer;
+        position : fixed;
+        right: 17px;
+        top: 26px;
+        font-size: 24px;
+        color: black;
+    }
+
+    }
+
     </style>

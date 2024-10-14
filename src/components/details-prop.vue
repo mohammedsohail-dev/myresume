@@ -110,6 +110,64 @@ export default {
     color: inherit; /* Inherit the text color from the parent */
 }
 
+@media (max-width: 768px) {
 
+.details.dark {
+    position: fixed;
+    left: 0px;
+    top: 40%;
+    width: 60%;
+    height: 10%;
+    background-color: rgba(132, 0, 255, 0.637);
+    box-shadow: none;
+
+}
+
+.text.dark {
+    position: fixed;
+    font-size: 6px;
+    text-align: left;
+    margin: 15px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'K2D', sans-serif;
+    text-align: left;
+    text-decoration: none;
+}
+
+.details.light {
+  position: fixed;
+    left: 0px;
+    top: 40%;
+    width: 60%;
+    height: 10%;
+    background-color: rgba(0, 255, 234, 0.801);
+    box-shadow: none;
+
+}
+
+.text.light {
+    position: fixed;
+    font-size: 6px;
+    text-align: left;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+    font-family: 'K2D', sans-serif;
+    text-align: left;
+    text-decoration: none;
+}
+
+.deticon {
+  width: 10px;
+  vertical-align: middle;
+}
+
+.text a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit the text color from the parent */
+}
+
+}
 
 </style>

@@ -38,4 +38,20 @@ export default {
     box-shadow: 1px 10px 10px black;
 }
 
+@media (max-width: 768px) {
+  .photo {
+    position: fixed;
+    left: 60%;
+    top: 10%;
+   }
+
+.image {
+    position: fixed;
+    width: 40%;
+    height: 40%;
+    box-shadow: none;
+}
+
+}
+
 </style>

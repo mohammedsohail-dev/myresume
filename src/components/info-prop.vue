@@ -131,6 +131,50 @@ export default {
     font-family: 'K2D', sans-serif;
 }
 
+@media (max-width: 768px) {
+
+  .info.dark {
+    position: fixed;
+    left: 0px;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(32, 32, 32, 0.61);
+
+}
+
+.text1.dark {
+    position: fixed;
+    font-size: 10px;
+    text-align: left;
+    margin: 3px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'K2D', sans-serif;
+}
+
+.info.light {
+  position: fixed;
+    left: 0px;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 81, 255, 0.171);
+
+}
+
+.text1.light {
+  position: fixed;
+    font-size: 10px;
+    text-align: left;
+    margin: 3px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'K2D', sans-serif;
+}
+
+}
+
 
 
 
