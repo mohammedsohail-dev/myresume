@@ -127,7 +127,7 @@ export default {
     position: fixed;
     font-size: 6px;
     text-align: left;
-    margin: 15px;
+    margin: 2%;
     color: white;
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;
@@ -150,7 +150,7 @@ export default {
     position: fixed;
     font-size: 6px;
     text-align: left;
-    margin: 15px;
+    margin: 2%;
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
     font-family: 'K2D', sans-serif;

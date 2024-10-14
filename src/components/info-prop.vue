@@ -144,7 +144,6 @@ export default {
 }
 
 .text1.dark {
-    position: fixed;
     font-size: 10px;
     text-align: left;
     margin: 3px;
@@ -164,7 +163,6 @@ export default {
 }
 
 .text1.light {
-  position: fixed;
     font-size: 10px;
     text-align: left;
     margin: 3px;
