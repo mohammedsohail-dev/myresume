@@ -125,7 +125,7 @@ export default {
 
 .text.dark {
     position: fixed;
-    font-size: 6px;
+    font-size: 25%;
     text-align: left;
     margin: 2%;
     color: white;
@@ -148,7 +148,7 @@ export default {
 
 .text.light {
     position: fixed;
-    font-size: 6px;
+    font-size: 25%;
     text-align: left;
     margin: 2%;
     color: rgb(0, 0, 0);

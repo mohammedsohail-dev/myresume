@@ -108,9 +108,9 @@ export default {
 
 .text2.dark {
     position: fixed;
-    font-size: 12px;
+    font-size: 65%;
     text-align: left;
-    margin: 15px;
+    margin: 5%;
     color: white;
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;
@@ -129,9 +129,9 @@ export default {
 
 .text2.light {
   position: fixed;
-    font-size: 12px;
+    font-size: 65%;
     text-align: left;
-    margin: 15px;
+    margin: 5%;
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;

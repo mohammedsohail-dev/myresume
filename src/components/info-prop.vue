@@ -20,8 +20,7 @@ Python <br />
 <br />
 {{info[4]}}<br />
 <br />
-<br />
-<br />
+
 {{info[5]}} <br />
 {{info[6]}}<br />
 
@@ -144,9 +143,9 @@ export default {
 }
 
 .text1.dark {
-    font-size: 10px;
+    font-size: 55%;
     text-align: left;
-    margin: 3px;
+    margin: 2%;
     color: white;
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;
@@ -163,9 +162,9 @@ export default {
 }
 
 .text1.light {
-    font-size: 10px;
+    font-size: 55%;
     text-align: left;
-    margin: 3px;
+    margin: 2%;
     color: white;
     text-shadow: 1px 1px 2px black;
     font-family: 'K2D', sans-serif;
