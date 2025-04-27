@@ -13,6 +13,9 @@ Modern resume built with Vue.js 3, deployed via GitHub Pages.
 - Lightweight (only core dependencies)
 - ESLint configured
 
+- ![image](https://github.com/user-attachments/assets/a5ae7475-8a6b-41d7-bcee-75e6a329aba1)
+
+
 ## Quick Start
 ```bash
 git clone https://github.com/mohammedsohail-dev/myresume.git
